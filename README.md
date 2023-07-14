@@ -85,13 +85,3 @@ PROCESS:
  6. Create file main.py
  7. Paste the code from the repository
  8. Use your OPEN-API KEY, TWILIO ACCOUNT SID AND TWILIO AUTH TOKEN
-
-
-HOSTING THE BOT:
-
-You can host the bot 24/7 in pythonanywhere.com with the similar steps.
-
-Hope It Helps ❤️!
-
-Enjoying It?
-Please donate https://www.buymeacoffee.com/thirumalaikg 💞
